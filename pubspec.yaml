@@ -1,0 +1,50 @@
+name: firebase_noteapp
+description: A new Flutter project.
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.17.6 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+  # firebase
+  firebase_auth: ^3.6.2
+  firebase_core: ^1.20.0
+  firebase_database: ^9.1.0
+  firebase_storage: ^10.3.4
+  firebase_remote_config: ^2.0.13
+  firebase_crashlytics: ^2.8.6
+  firebase_analytics: ^9.3.0
+
+  #  cloud_firestore: ^3.4.3
+  #database
+  shared_preferences: ^2.0.15
+  #image picker
+  image_picker: ^0.8.5+3
+
+
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^2.0.0
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - assets/images/
+
+  # fonts:
+  #   - family: Schyler
+  #     fonts:
+  #       - asset: fonts/Schyler-Regular.ttf
