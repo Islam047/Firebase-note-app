@@ -15,12 +15,12 @@ wisely used Shared Preference to solve the problem of a single user in Firebase 
   
 
 ## Screenshots
+<img src="https://user-images.githubusercontent.com/102592952/190414072-c2fc651b-bd03-4a69-8849-9c5c6237eeaa.jpg" align="left"
+width="200"
+    hspace="10" vspace="10">
 
-[<img src="/readme/Wallabag%20Reading%20List.png" align="left"
+<img src="https://user-images.githubusercontent.com/102592952/190415968-74dd125e-b54e-4399-9831-28ab1385df00.jpg" align="left"
 width="200"
-    hspace="10" vspace="10">](/readme/Wallabag%20Reading%20List.png)
-[<img src="/readme/Wallabag%20Article%20View.png" align="center"
-width="200"
-    hspace="10" vspace="10">](/readme/Wallabag%20Article%20View.png)
+    hspace="10" vspace="10">
 
 
