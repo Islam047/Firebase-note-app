@@ -1,16 +1,26 @@
-# firebase_noteapp
+# Fire-note Application 
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+The application is built by Firebase technology,which enabled me to work with the self-created APIs and I
+wisely used Shared Preference to solve the problem of a single user in Firebase authentification.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<p align="left">
+    <img alt="Get it on Google Play"
+        height="80"
+        src="https://conso.market/bitrix/templates/dresscodeV2/images/download.png" />
+</a>  
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+  
+
+## Screenshots
+
+[<img src="/readme/Wallabag%20Reading%20List.png" align="left"
+width="200"
+    hspace="10" vspace="10">](/readme/Wallabag%20Reading%20List.png)
+[<img src="/readme/Wallabag%20Article%20View.png" align="center"
+width="200"
+    hspace="10" vspace="10">](/readme/Wallabag%20Article%20View.png)
+
+
