@@ -9,7 +9,7 @@ wisely used Shared Preference to solve the problem of a single user in Firebase 
 <p align="left">
     <img alt="Get it on Google Play"
         height="80"
-        src="https://conso.market/bitrix/templates/dresscodeV2/images/download.png" />
+        src="https://static.tildacdn.com/tild6536-3465-4061-b030-656164346166/arrow_down.png" />
 </a>  
 
   
